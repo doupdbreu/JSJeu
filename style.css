@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: auto;
+  background-color: whitesmoke;
+}
+
+h1 {
+  width: auto;
+  height: auto;
+  text-align: center;
+
+}
+
+p{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: auto;
+  width: 800px;
+  height: 20vh;
+  text-align: center;
+  align-items: center;
+}
+
+.form {
+  padding-bottom: 5px;
+  width: auto;
+  height: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.resultParas {
+  width: 150px;
+  height: 2vh;
+  text-align: center;
+
+}
